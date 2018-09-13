@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"<Unnamed>","l":"Background"},{"p":"<Unnamed>","l":"Controller"},{"p":"<Unnamed>","l":"Food"},{"p":"<Unnamed>","l":"GoldenFish"},{"p":"<Unnamed>","l":"Mode"},{"p":"<Unnamed>","l":"Obstacle"},{"p":"<Unnamed>","l":"Player"},{"p":"<Unnamed>","l":"Quiz"},{"p":"<Unnamed>","l":"Trap"},{"p":"<Unnamed>","l":"Trash"},{"p":"<Unnamed>","l":"XBar"}]
